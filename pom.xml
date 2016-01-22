@@ -12,5 +12,6 @@
 
   <modules>
     <module>test-examples</module>
+    <module>map-examples</module>
   </modules>
 </project>
